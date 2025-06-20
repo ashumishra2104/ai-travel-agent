@@ -2,6 +2,7 @@
 # 🌍 AI Travel Agent & Expense Planner
 
 An intelligent travel planning agent built with **LangChain**, **LangGraph**, and **OpenAI** that provides comprehensive trip planning with real-time data and detailed cost calculations.
+See it on streamlit : https://aitravelagentapp-hnfpw6ld6sbccipssrl8l7.streamlit.app/
 
 ## 🚀 Features
 
