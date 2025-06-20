@@ -23,6 +23,8 @@ An intelligent travel planning agent built with **LangChain**, **LangGraph**, an
 - **OpenWeatherMap API** - Weather data
 - **DuckDuckGo Search** - Alternative search engine
 - **YouTube Search** - Video recommendations
+- ![image](https://github.com/user-attachments/assets/8d8a580b-ef31-4d9b-96dc-972fa7737215)
+
 
 ## 📋 Prerequisites
 
